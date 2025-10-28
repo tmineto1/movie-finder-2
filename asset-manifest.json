@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/movie-finder-2/static/css/main.6c38463a.css",
-    "main.js": "/movie-finder-2/static/js/main.fdce71a4.js",
+    "main.js": "/movie-finder-2/static/js/main.3b7bc784.js",
     "static/js/453.f22d8b95.chunk.js": "/movie-finder-2/static/js/453.f22d8b95.chunk.js",
     "index.html": "/movie-finder-2/index.html",
     "main.6c38463a.css.map": "/movie-finder-2/static/css/main.6c38463a.css.map",
-    "main.fdce71a4.js.map": "/movie-finder-2/static/js/main.fdce71a4.js.map",
+    "main.3b7bc784.js.map": "/movie-finder-2/static/js/main.3b7bc784.js.map",
     "453.f22d8b95.chunk.js.map": "/movie-finder-2/static/js/453.f22d8b95.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6c38463a.css",
-    "static/js/main.fdce71a4.js"
+    "static/js/main.3b7bc784.js"
   ]
 }
